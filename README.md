@@ -1,4 +1,5 @@
 # Handwritten-Digit-Recognition
+Author- Swarali Pathrikar
 This is a machine learning project that involves building a model capable of
 identifying and classifying handwritten digits (0–9) from images. Using the 
 TensorFlow framework, the project leverages deep learning, particularly 
