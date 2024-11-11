@@ -20,10 +20,8 @@ This project has many use cases such as:
 1) Data Entry- Simplifies digitizing handwritten forms and documents,
 reducing manual data entry work in industries like banking, insurance, and
 healthcare.
-<br>
 2) Document Recognization- Recognizes handwritten numbers in documents and
 books, aiding in archival and digitization efforts for historical records.
-<br>
 3) Smart Form Processing- Useful in applications where forms need to be
 processed digitally, enabling recognition of handwritten responses, such as
 surveys, exams, or registrations.
