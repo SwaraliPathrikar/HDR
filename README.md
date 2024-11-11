@@ -2,7 +2,7 @@
 This is a machine learning project that involves building a model capable of
 identifying and classifying handwritten digits (0–9) from images. Using the 
 TensorFlow framework, the project leverages deep learning, particularly 
-convolutional neural networks (CNNs), to accurately interpret and classify
+Convolutional Neural Networks (CNNs), to accurately interpret and classify
 digit images from datasets such as MNIST. The model undergoes extensive 
 training, learning various features and patterns of digits, and is then
 evaluated on test data to ensure its accuracy and robustness.
